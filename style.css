@@ -1,0 +1,94 @@
+h1{
+
+   background-color: rgba(234, 190, 125,0.3);
+   color: rgba(138, 43, 226,1);
+   font-weight: bold;
+   font-style: italic;
+   text-decoration: underline;
+   text-decoration:underline double;
+   
+}
+
+#heading1{
+
+    background-color: aquamarine;
+    color: brown;
+}
+
+#heading{
+
+    background-color: beige;
+    color: darkgoldenrod;
+   
+}
+
+.heading2{
+     
+    background-color: #b08968;
+    color: #6a040f;
+    font-weight: bold;
+    font-style: italic;
+    text-decoration: underline dotted rgb(130, 17, 223);
+}
+
+h2{
+
+    background-color: rgba(0, 0, 238,0.3);
+    color: #a11f65;
+    font-weight: bold;
+    font-style: italic;
+    text-decoration: underline chocolate;
+
+}   
+
+h3{
+
+    background-color: rgba(183, 199, 214,0.2);
+    color: rgba(189, 183, 107,1);
+    font-weight: bold;
+    font-style: italic;
+    text-decoration: underline dashed crimson;
+
+}
+
+.para1{
+
+   color: rgb(241, 50, 21);
+}
+
+.para2{
+
+    color: rgb(31, 82, 233);
+}
+
+.para3{
+
+    color: darkmagenta;
+}
+
+.para4{
+
+    color: darkorange;
+}
+
+.para5{
+
+    color: darkcyan;
+
+}
+
+.paraspan{
+
+    color: blue;
+    font-weight: bold;
+    font-style: italic;
+    text-decoration: underline chartreuse;
+}
+
+.paraspan1{
+
+    color: black;
+    font-weight: bold;
+    font-style: italic;
+    text-decoration:underline dotted cyan ;
+}
